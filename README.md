@@ -1,7 +1,7 @@
 # Project1_group3
 # Introduction to the Data-Related Job Market
 
-PRESENTATION LINK : 
+PRESENTATION LINK : https://docs.google.com/presentation/d/1mPUwf7lgu8Lb8Lbk4uwzh39GZ8-XKJUqyTCxqrlMqzk/edit#slide=id.gc6f9e470d_0_0
 
 # Glassdoor Data-Related Job Analysis - Chloe Lee
 ## Introduction
