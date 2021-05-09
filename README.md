@@ -57,8 +57,8 @@ My exploration focused on understanding the current data-related job market in M
 
 Link to my .ipynb: (https://github.com/chaenii989/Project1_group3/blob/d56273d8b47b5977c93a43231a1fae4e60c7e022/A.Pesch%20-%20Indeed%20Web%20Scraped%20Data%20Analysis.ipynb)
 
-- I first extracted two .csv datasets using an open-source Indeed webscraping tool found on GitHub (https://github.com/vittoriotriassi/jobs_scraper).  One dataset was for data-related current jobs (pulled 4/30/21) posted on Indeed within Michigan.  "Data-related" meaning Data Analyst, Data Scientist, Data Engineer, Business Intelligence Analyst, etc. using the keyword "data" in the job title.
-- The second dataset was for "Data Analyst" keyword-only current jobs (pulled (4/30/21) within the entire U.S.  
+- I first extracted two .csv datasets using an open-source Indeed webscraping tool found on GitHub (https://github.com/vittoriotriassi/jobs_scraper).  One dataset was for data-related current jobs (pulled 4/30/21) posted on Indeed within Michigan (called "Current MI Data Jobs.csv").  "Data-related" meaning Data Analyst, Data Scientist, Data Engineer, Business Intelligence Analyst, etc. using the keyword "data" in the job title.
+- The second dataset was for "Data Analyst" keyword-only current jobs (pulled (4/30/21) within the entire U.S. (called "U.S. Data Analyst Jobs").  
 - The `gmaps` library was used to obtain a map of Michigan.
 
 ## Limitations of the datasets
