@@ -70,7 +70,8 @@ Link to my .ipynb: (https://github.com/chaenii989/Project1_group3/blob/d56273d8b
   - See google map with heatmap layer, marker layer, and symbol layer.  The heatmap is showing that most data-related jobs exist on the East side of Michigan (metro Detroit to Ann Arbor region).  The markers depict a sample job from each city with the job title, company, city, and URL.  The three yellow symbols highlight the three cities with the most job postings (Detroit, Ann Arbor, and Dearborn).
 
 - Q: In Michigan, what are the top five *cities* in Michigan with the most data-related job postings currently?
-  - *See bar chart in the .ipynb.*   
+  - *See bar chart in the .ipynb.*
+  - The job counts from these top five cities account for 63% of the overall data-related jobs in Michigan.   
   1. Detroit (20 jobs)
   2. Ann Arbor (10)
   3. Dearborn (7)
@@ -79,6 +80,7 @@ Link to my .ipynb: (https://github.com/chaenii989/Project1_group3/blob/d56273d8b
      
 - Q: In Michigan, what are the top five *companies* in Michigan with the most data-related job postings currently? 
   -  *See bar chart in the .ipynb.*
+  -  The job counts from these top five companies account for 21% of the overall data-related jobs in Michigan.
   1. Synergy Solutions (6 jobs)
   2. General Motors (3)
   3. Coupa (2)
