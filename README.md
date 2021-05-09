@@ -92,3 +92,42 @@ Link to my .ipynb: (https://github.com/chaenii989/Project1_group3/blob/d56273d8b
   - There are 6813 Data Analyst jobs currently posted in the US on Indeed.  There are **490** remote Data Analyst jobs and 6323 on-site jobs.
   - **7.2%** of Data Analyst jobs posted in the US are remote, 92.8% are on-site jobs.  
   - *See pie chart in the .ipynb.*
+
+
+
+**Bureau of Labor Statistics Data Scientist Job Market – John Burke**
+
+**## Introduction**
+Most of us will be looking for a new data related job once we finish this class.  As data related jobs are growing in the United States, I investigated which states would be best to apply for Data Scientist positions based on job and salaries data from the Bureau of Labor Statistics and the Cost-of-Living index provided from the World Population Review website.
+
+Imported 2 CSV files
+-  First csv file was from the Bureau of Labor Statistics using the Occupational Employment and Wage Statistics Query System.  This dataset extracted employment and salary information for Data Scientists per state in the United States.
+-  Second CSV file contained information regarding the cost of living per state from the World Population Review.  The cost-of-living index is based on sustaining a certain standard of living by affording basic needs such as housing, food, healthcare, and more.
+
+## Limitations of the datasets
+
+-  Bureau of Labor Statistics dataset did not separate Data Scientist employment and salary data based on experience levels (entry-level, senior, lead, etc.)
+-  Bureau of Labor Statistics did not have information on Delaware, North Dakota, Vermont, Wyoming.  These states were eliminated from the dataset.
+-  Specific calculation to generate the cost-of-living index was not shared on the World Population Review.
+
+## Questions with Associated Analysis
+With most of us looking to apply for Data related jobs after this class, I wanted to answer what states hired the most Data Scientists, what states based on mean salaries pay their Data Scientists the most, and show a scatter plot explaining which states would be the best places to apply for Data Scientist positions based on mean salary and the cost of living per state. 
+
+Q1:  What states currently have the most data scientist positions in the state?
+     1.	California (9,510)
+     2.	Texas (4,310)
+     3.	New York (3,950)
+     4.	Illinois (3,290)
+     5.	Washington (2,610)
+
+Q2:  What states pay their Data Scientists the most?  
+     1.	California ($129,060)
+     2.	New York ($124,240)
+     3.	Washington ($118,320)
+     4.	North Carolina ($117,370)
+     5.	New Jersey ($116,250)
+
+Q3:  Based on linear regression on the Data Scientist average salaries and cost of living per state, show a scatter plot showing which states are the best to apply to based on the salary you’ll make vs the cost of living per living in the state?
+
+![image](https://user-images.githubusercontent.com/79127355/117588656-d2ca9c80-b0f2-11eb-9f5f-b69dd8f19193.png)
+
