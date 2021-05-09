@@ -30,16 +30,21 @@ Data-related job is one of the new fields and is expected to grow in the future 
      3. Computer Hardware & Software (619 job postings) 
      4. Internet (448 job postings) 
      5. Health Care Services & Hospitals (399 job postings) 
+     (Bar chart 1)
+     
 • A: 1. Apple (88 job postings) 
      2. Staffigo Technical Services, LLC (86 job postings) 
      3. Amazon (78 job postings) 
      4. IBM (64 job postings) 
      5. Diverse Lynx (62 job postings) 
+     (Bar chart 2)
+
 • A: 1. New York, NY (800) 
      2. Chicago, IL (652) 
      3. Austin, TX (625) 
      4. San Diego, CA (561) 
      5. Houston, TX (490)
+     (Heatmap with markers) - screenshot:IMAGE 
 
 
 
