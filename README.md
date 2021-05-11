@@ -44,9 +44,7 @@ Q4. Comparing the degrees in computers, mathematics and statistics by region?
      7.New Jersey
      8.Pennsylvania
 
-  • A: No significant differences between degrees in computers, mathematics and statistics by region
-     Fig (4)
-     
+ 
 
 # Glassdoor Data-Related Job Analysis - Chloe Lee
 ## Introduction
