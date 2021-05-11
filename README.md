@@ -47,7 +47,6 @@ Q4. Comparing the degrees in computers, mathematics and statistics by region?
   • A: No significant differences between degrees in computers, mathematics and statistics by region
      Fig (4)
      
-     
 
 # Glassdoor Data-Related Job Analysis - Chloe Lee
 ## Introduction
