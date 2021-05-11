@@ -6,7 +6,7 @@ PRESENTATION LINK : https://docs.google.com/presentation/d/1mPUwf7lgu8Lb8Lbk4uwz
 # U.S. Bureau of Data Statistics - Rna Babikar
 ## Introduction
 
-My focus was to have an overview of the employment sectors in the United State of America per state, what are the top sectors per employment, what are the employment projection for 2029 and What are the top 8 states for number of graduates by major. Data source used was U.S. Bureau of Data Statistics, in-order to create three bar charts representing, employment by industry sector, employment and projection for computer systems design and related services for 2029, and to show the number of graduates by major for top 8 states. I also comparing the degrees in computer mathematics and statistics by regions using boxplot. Data source used was https://raw.githubusercontent.com/cphalpert/census-regions/master/us%20census%20bureau%20regions%20and%20divisions.csv.
+My focus was to have an overview of the employment sectors in the United State of America per state, what are the top sectors per employment, what are the employment projection for 2029 and What are the top 8 states for number of graduates by major. Data source used was U.S. Bureau of Data Statistics, in-order to create three bar charts representing, employment by industry sector, employment and projection for computer systems design and related services for 2029, and to show the number of graduates by major for top 8 states. 
 
 ## Limitations of datasets
 • Missing data. 
@@ -15,7 +15,7 @@ My focus was to have an overview of the employment sectors in the United State o
 Q1. What are the top sectors per employment?
 Q2. What are the employment and projection for computer system design and related services for (2029)?
 Q3. What are the top 8 states for number of graduates by major?
-Q4. Comparing the degrees in computers, mathematics and statistics by region?
+
 
 ## Analysis: 
 • A: 1. Professional, scientific, and technical services
