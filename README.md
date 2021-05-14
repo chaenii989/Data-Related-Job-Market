@@ -13,7 +13,7 @@ My focus was to have an overview of the employment sectors in the United State o
 
 ## Questions with Associated Analysis: 
 Q1. What are the top sectors per employment?
-Q2. What are the employment and projection for computer system design and related services for (2029)?
+Q2. What is the projection for employment, for computer system design and related services for (2029)?
 Q3. What are the top 8 states for number of graduates by major?
 
 
